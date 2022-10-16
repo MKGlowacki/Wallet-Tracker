@@ -1,5 +1,4 @@
-# myexpenses
-
+# Wallet Tracker
 A new Flutter project.
 
 ## Getting Started
